@@ -25,7 +25,6 @@ function isPalindrome(str)
   }
 }
 
-// Test with different strings
 let word1 = "madam";
 let word2 = "hello";
 let word3 = "racecar";
